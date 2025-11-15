@@ -10,6 +10,7 @@
 - [Course Description](#-course-description-)
 - [Module 1](#-module-one-)
 - [Module 2](#-module-two-)
+- [Module 3](#-module-three-)
 
 ## <h1 align="center"> Course Description </h1>
 Students will design and develop a full stack application through the utilization of programming language frameworks. In creating a full stack application, students will also be responsible for developing a database as well as the code that interfaces their application to the database. This is the first course in a two-course sequence.
@@ -19,3 +20,6 @@ Produce a working shell of the customer-facing web application that is rendered 
 
 ## <h1 align="center"> Module Two </h1>
 Organize the default code and folder layout into a structure that reflects a Model View Controller (MVC) approach to the software design.
+
+## <h1 align="center"> Module Three </h1>
+Replace static HTML with templates that will utilize JSON to format and display information.
