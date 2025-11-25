@@ -11,6 +11,8 @@
 - [Module 1](#-module-one-)
 - [Module 2](#-module-two-)
 - [Module 3](#-module-three-)
+- [Module 4](#-module-four-)
+- [Module 5](#-module-five-)
 
 ## <h1 align="center"> Course Description </h1>
 Students will design and develop a full stack application through the utilization of programming language frameworks. In creating a full stack application, students will also be responsible for developing a database as well as the code that interfaces their application to the database. This is the first course in a two-course sequence.
@@ -23,3 +25,9 @@ Organize the default code and folder layout into a structure that reflects a Mod
 
 ## <h1 align="center"> Module Three </h1>
 Replace static HTML with templates that will utilize JSON to format and display information.
+
+## <h1 align="center"> Module Four </h1>
+Create a database and then connect the database to the server. In turn, the server will deliver the data to the browser for the customer who uses the Travlr Getaways website.
+
+## <h1 align="center"> Module Five </h1>
+This application will separate the RESTful endpoints.
