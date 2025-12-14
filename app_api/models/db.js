@@ -40,7 +40,8 @@ const gracefulShutdown = (msg) => {
         console.log(`Mongoose disconnected through ${msg}`); 
     }); 
 }; 
- 
+ require('./users');
+
 // Event Listeners to process graceful shutdowns  
  
 // Shutdown invoked by nodemon signal 
@@ -62,4 +63,8 @@ process.exit(0);
 connect(); 
 // Import Mongoose schema 
 require('./travlr'); 
+
+console.log('Registered models:', mongoose.modelNames());
+
+
 module.exports = mongoose; 
